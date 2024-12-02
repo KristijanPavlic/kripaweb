@@ -1,0 +1,35 @@
+{
+    "short_name": "KriPa Web",
+    "name": "KriPa Web",
+    "description": "KriPa Web specializes in Webflow development, full-stack web development, UI/UX design, SEO strategies, design-to-code transformations, custom website updates, and reliable hosting services. We deliver high-performance, user-friendly, and secure websites.",
+    "lang": "en",
+    "dir": "ltr",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/ico"
+        },
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "apple-touch-icon"
+        },
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#F6F6F6",
+    "display": "browser",
+    "scope": "/",
+    "theme_color": "#5725F6",
+    "orientation": "any"
+}
