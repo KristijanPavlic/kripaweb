@@ -80,7 +80,7 @@ export const metadata: Metadata = {
         url: "/favicon.ico",
         width: 32,
         height: 32,
-        alt: "KriPa Icon",
+        alt: "KriPa Web Icon",
       },
       {
         url: "/apple-touch-icon.png",
