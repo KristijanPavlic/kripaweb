@@ -80,7 +80,7 @@ export default function About() {
           />
         </div>
       </div>
-      <div className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-8 mt-4 md:mt-16">
+      <div className="grid xl:grid-cols-4 lg:grid-cols-2 grid-cols-1 gap-8 mt-4 md:mt-16">
         {aboutData.map((card, index) => (
           <div
             key={index}

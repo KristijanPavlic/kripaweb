@@ -93,11 +93,11 @@ export default function Work() {
         {projects.map((project, index) => (
           <div
             key={index}
-            className={`bg-[#e9e9e9aa] rounded-lg shadow-lg flex justify-between gap-12 lg:flex-row flex-col hover:scale-[1.01] hover:bg-[#dbdbdb] transition-all duration-300 ease-in-out`}
+            className={`bg-[#e9e9e9aa] rounded-lg shadow-lg flex justify-between lg:gap-8 gap-6 ${index % 2 !== 0 ? "lg:flex-row-reverse" : "lg:flex-row"} flex-col hover:scale-[1.01] hover:bg-[#dbdbdb] hover:shadow-none transition-all duration-300 ease-in-out`}
           >
-            <div className="min-w-[40%] md:p-6 p-4 flex flex-col justify-evenly">
+            <div className="md:p-6 p-4 flex flex-col justify-evenly">
               <h2
-                className={`${montserratAlternates.className} xl:text-[8rem] lg:text-[5rem] text-[4rem] xl:leading-[8rem] lg:leading-[5rem] leading-[4rem] lg:pb-0 pb-12 font-black`}
+                className={`${montserratAlternates.className} xl:text-[8rem] lg:text-[5rem] md:text-[4rem] text-[3rem] xl:leading-[8rem] lg:leading-[5rem] md:leading-[4rem] leading-[3rem] lg:pb-0 pb-12 font-black`}
               >
                 {project.shortTitle}
               </h2>
@@ -112,14 +112,14 @@ export default function Work() {
                   <Link
                     href={project.link || "/"}
                     prefetch={true}
-                    className="w-fit flex gap-2 items-center text-2xl text-[var(--color-text)] transition-all duration-300 hover:text-[var(--color-accent)] hover:no-underline"
+                    className="w-fit flex gap-2 items-center text-xl lg:text-2xl text-[var(--color-text)] transition-all duration-300 hover:text-[var(--color-accent)] hover:no-underline"
                   >
                     View project
                   </Link>
                   <Link
                     href={project.url || "/"}
                     target="_blank"
-                    className="w-fit flex gap-2 items-center text-2xl text-[var(--color-text)] transition-all duration-300 hover:text-[var(--color-accent)] hover:no-underline"
+                    className="w-fit flex gap-2 items-center text-xl lg:text-2xl text-[var(--color-text)] transition-all duration-300 hover:text-[var(--color-accent)] hover:no-underline"
                   >
                     Live site
                     <svg
@@ -148,8 +148,8 @@ export default function Work() {
                 <Image
                   src={project.src || ""}
                   alt={project.title}
-                  width={800}
-                  height={500}
+                  width={1000}
+                  height={700}
                   className={`rounded-lg ${
                     imageLoading[index] ? "opacity-0" : "opacity-100"
                   } transition-opacity duration-500`}

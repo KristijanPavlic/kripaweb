@@ -81,7 +81,7 @@ export default function Home() {
             animate={loading ? "hidden" : "visible"}
             exit={{ opacity: 0, transition: { duration: 0.5 } }}
             variants={overlayVariants}
-            className="fixed inset-0 flex items-center justify-center bg-[var(--color-background)] z-50 border-b-2 border-[var(--color-primary)]"
+            className="overflow-y-hidden fixed inset-0 flex items-center justify-center bg-[var(--color-background)] z-50 border-b-2 border-[var(--color-primary)]"
           >
             <div
               className={`${montserratAlternates.className} text-6xl font-bold`}
