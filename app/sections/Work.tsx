@@ -14,10 +14,15 @@ const montserratAlternates = Montserrat_Alternates({
 
 const projects = [
   {
+    title: "Designo",
+    shortTitle: "Designo",
+    src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo-IXrXNBI89GvX5CsfIjnAsZGODiAYUs.png",
+  },
+  /* {
     title: "Recipify",
     shortTitle: "Recipify",
     src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/recipify-YJEycScBgBryWkdHPBBRO8ofH2lcR1.png",
-  },
+  }, */
   {
     title: "CarSpot",
     shortTitle: "CarSpot",
