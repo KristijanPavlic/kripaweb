@@ -16,7 +16,7 @@ const projects = [
   {
     title: "Designo",
     shortTitle: "Designo",
-    src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo-IXrXNBI89GvX5CsfIjnAsZGODiAYUs.png",
+    src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo-JxmASokYxStoihtMnd0X3xddMmcYmk",
   },
   /* {
     title: "Recipify",
