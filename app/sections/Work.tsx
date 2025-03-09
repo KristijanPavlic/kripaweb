@@ -16,13 +16,8 @@ const projects = [
   {
     title: "Designo",
     shortTitle: "Designo",
-    src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo-Eyxyk1X6bDbU0mJab9Hq423I99wGjb.png",
+    src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo-o7Gs87oZi00gVgpsyF2d0NqVs8Z3Wt.jpg",
   },
-  /* {
-    title: "Recipify",
-    shortTitle: "Recipify",
-    src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/recipify-YJEycScBgBryWkdHPBBRO8ofH2lcR1.png",
-  }, */
   {
     title: "CarSpot",
     shortTitle: "CarSpot",
