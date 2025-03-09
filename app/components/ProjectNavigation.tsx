@@ -25,7 +25,7 @@ export default function ProjectNavigation() {
 
   const navRef = useRef(null);
 
-  const projects = ["CarSpot", "Zrinski", "Dulafra"];
+  const projects = ["Designo", "CarSpot", "Zrinski", "Dulafra"];
 
   useEffect(() => {
     setNavVisible(true);

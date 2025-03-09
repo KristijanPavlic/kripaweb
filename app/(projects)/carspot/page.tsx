@@ -26,7 +26,7 @@ export default function CarSpot() {
       ]}
       projectTechnoHeading={"Technologies"}
       projectTechno={
-        "Next.js, TypeScript, JavaScript, Tailwind CSS, Cloudinary, Kinde Auth, Convex, Cloudinary, GitHub ,Figma"
+        "Next.js, TypeScript, JavaScript, Tailwind CSS, Kinde Auth, Convex, Cloudinary, GitHub, Figma"
       }
       projectFeaturesHeading={"Features"}
       projectFeatures={

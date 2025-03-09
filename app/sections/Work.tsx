@@ -14,9 +14,11 @@ const montserratAlternates = Montserrat_Alternates({
 
 const projects = [
   {
-    title: "Designo",
+    title: "Foto & video Designo",
     shortTitle: "Designo",
     src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo-o7Gs87oZi00gVgpsyF2d0NqVs8Z3Wt.jpg",
+    link: "/designo",
+    url: "https://foto-designo.com/",
   },
   {
     title: "CarSpot",
@@ -30,14 +32,14 @@ const projects = [
     shortTitle: "Zrinski Photo",
     src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/zrinski_preview-rEV2ERzygANeRJAf52DgZxWc6ulF4V.png",
     link: "/zrinski",
-    url: "https://zrinski-photo.com",
+    url: "https://zrinski-photo.com/",
   },
   {
     title: "Dulafra Foto Corner",
     shortTitle: "Dulafra",
     src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/dulafra_preview-hkIgAfgSJoccKpJS5hVSgffLr2yyiJ.png",
     link: "/dulafra",
-    url: "https://dulafra.com",
+    url: "https://dulafra.com/",
   },
 ];
 
