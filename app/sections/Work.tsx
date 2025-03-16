@@ -16,7 +16,7 @@ const projects = [
   {
     title: "Foto & video Designo",
     shortTitle: "Designo",
-    src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo-o7Gs87oZi00gVgpsyF2d0NqVs8Z3Wt.jpg",
+    src: "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo1-qmF1x8ByWp6E6OZ9QaJXfDT4pt2YO5.jpg",
     link: "/designo",
     url: "https://foto-designo.com/",
   },

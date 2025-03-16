@@ -7,8 +7,11 @@ export default function Designo() {
       projectName={"Foto & Video Designo"}
       projectServices={"Design & Full-stack Web Development"}
       projectImages={[
-        "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo-o7Gs87oZi00gVgpsyF2d0NqVs8Z3Wt.jpg",
-        "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo-o7Gs87oZi00gVgpsyF2d0NqVs8Z3Wt.jpg",
+        "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo1-qmF1x8ByWp6E6OZ9QaJXfDT4pt2YO5.jpg",
+        "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo2-Vh1JyrwwbrVz6tHeI607bOsEGT2veJ.jpg",
+        "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo3-aWgpGGyJY7DmKxd2jOmRUd2KyPjrot.jpg",
+        "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo4-6ixLT89sbO0Iv6zc9DzxhC0RI831wu.jpg",
+        "https://rdbh1o39u7awif7j.public.blob.vercel-storage.com/images/designo5-mqMvNei1a0cyN0MIwCrXfNtHXTarGL.jpg",
       ]}
       projectInfoHeading={"Project Info"}
       projectInfo={[
